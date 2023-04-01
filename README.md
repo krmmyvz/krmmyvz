@@ -3,12 +3,10 @@
 I'm a graduate of Istanbul Kultur University's Computer Engineering program and currently working as a software developer. I develop web applications using HTML, CSS, JavaScript, and React.js. Additionally, I create mobile applications using Flutter and Firebase.
 
 ### Skills 💻
-- HTML/CSS
-- JavaScript
-- React.js
-- Flutter
-- Firebase
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,flutter,dart,firestore)](https://skillicons.dev)
+<div align="center">
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,flutter,dart,firestore)](https://skillicons.dev)
+</div>
+
 
 <!--
 **krmmyvz/krmmyvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
