@@ -8,6 +8,7 @@ I'm a graduate of Istanbul Kultur University's Computer Engineering program and 
 - React.js
 - Flutter
 - Firebase
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,flutter,dart,firestore)](https://skillicons.dev)
 
 <!--
 **krmmyvz/krmmyvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
